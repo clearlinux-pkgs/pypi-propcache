@@ -7,7 +7,7 @@
 #
 Name     : pypi-propcache
 Version  : 0.2.1
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/20/c8/2a13f78d82211490855b2fb303b6721348d0787fdd9a12ac46d99d3acde1/propcache-0.2.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/20/c8/2a13f78d82211490855b2fb303b6721348d0787fdd9a12ac46d99d3acde1/propcache-0.2.1.tar.gz
 Summary  : Accelerated property cache
