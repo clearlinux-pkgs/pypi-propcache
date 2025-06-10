@@ -1,5 +1,5 @@
 PKG_NAME := pypi-propcache
-URL = https://files.pythonhosted.org/packages/07/c8/fdc6686a986feae3541ea23dcaa661bd93972d3940460646c6bb96e21c40/propcache-0.3.1.tar.gz
+URL = https://files.pythonhosted.org/packages/a6/16/43264e4a779dd8588c21a70f0709665ee8f611211bdd2c87d952cfa7c776/propcache-0.3.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
